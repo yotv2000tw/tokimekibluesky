@@ -24,6 +24,10 @@ const languages = [
     {
         value: 'pt-BR',
         text: 'Português',
+    },
+    {
+        value: 'zh-TW',
+        text: '繁體中文(台灣)',
     }
 ]
 

@@ -59,6 +59,6 @@ export const languageMap = new Map([
     ['yi', {name: 'Yiddish', alt: []}],
     ['en', {name: 'English', alt: ['en-US']}],
     ['ko', {name: 'Korean', alt: ['ko-KR']}],
-    ['zh', {name: 'Chinese', alt: []}],
+    ['zh', {name: 'Chinese', alt: ['zh-TW']}],
     ['ja', {name: 'Japanese', alt: ['ja-JP']}],
 ]);
