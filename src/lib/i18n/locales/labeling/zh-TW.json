@@ -1,8 +1,8 @@
 {
 	"labeling_spoiler": "劇透",
 	"labeling_!warn": "警告標籤",
-	"labeling_porn": "性的コンテンツ（ポルノ）",
-	"labeling_sexual": "性的コンテンツ（セクシャル）",
-	"labeling_nudity": "性的コンテンツ（ヌード）",
-	"labeling_spam": "スパム"
+	"labeling_porn": "性相關的內容（色情）",
+	"labeling_sexual": "性相關的內容（性行為）",
+	"labeling_nudity": "性相關的內容（裸露）",
+	"labeling_spam": "垃圾內容"
 }
